@@ -1,0 +1,10 @@
+requests
+pandas
+websockets
+joblib
+gymnasium
+pettingzoo
+chess
+pygame
+stable-baselines3
+sb3-contrib
